@@ -15,8 +15,7 @@ public class AppiumTest {
 	public void iosApp()
 	{
 		System.out.println("this is ios app");
-		System.out.println("this is native app");
-		System.out.println("this is native app");
+		
 
 
 	}
